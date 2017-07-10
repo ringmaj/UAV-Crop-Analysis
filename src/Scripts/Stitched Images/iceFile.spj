@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<stitchProject version="2.0" cameraMotion="automatic">
+  <sourceImages>
+    <sourceImage filePath="C:\Users\Majok\Documents\Scripts\Image Files\1.jpg" />
+    <sourceImage filePath="C:\Users\Majok\Documents\Scripts\Image Files\10.jpg" />
+    <sourceImage filePath="C:\Users\Majok\Documents\Scripts\Image Files\11.jpg" />
+    <sourceImage filePath="C:\Users\Majok\Documents\Scripts\Image Files\12.jpg" />
+    <sourceImage filePath="C:\Users\Majok\Documents\Scripts\Image Files\13.jpg" />
+    <sourceImage filePath="C:\Users\Majok\Documents\Scripts\Image Files\14.jpg" />
+    <sourceImage filePath="C:\Users\Majok\Documents\Scripts\Image Files\15.jpg" />
+    <sourceImage filePath="C:\Users\Majok\Documents\Scripts\Image Files\16.jpg" />
+    <sourceImage filePath="C:\Users\Majok\Documents\Scripts\Image Files\17.jpg" />
+    <sourceImage filePath="C:\Users\Majok\Documents\Scripts\Image Files\18.jpg" />
+    <sourceImage filePath="C:\Users\Majok\Documents\Scripts\Image Files\19.jpg" />
+    <sourceImage filePath="C:\Users\Majok\Documents\Scripts\Image Files\2.jpg" />
+    <sourceImage filePath="C:\Users\Majok\Documents\Scripts\Image Files\20.jpg" />
+    <sourceImage filePath="C:\Users\Majok\Documents\Scripts\Image Files\21.jpg" />
+    <sourceImage filePath="C:\Users\Majok\Documents\Scripts\Image Files\22.jpg" />
+    <sourceImage filePath="C:\Users\Majok\Documents\Scripts\Image Files\23.jpg" />
+    <sourceImage filePath="C:\Users\Majok\Documents\Scripts\Image Files\24.jpg" />
+    <sourceImage filePath="C:\Users\Majok\Documents\Scripts\Image Files\25.jpg" />
+    <sourceImage filePath="C:\Users\Majok\Documents\Scripts\Image Files\26.jpg" />
+    <sourceImage filePath="C:\Users\Majok\Documents\Scripts\Image Files\27.jpg" />
+    <sourceImage filePath="C:\Users\Majok\Documents\Scripts\Image Files\28.jpg" />
+    <sourceImage filePath="C:\Users\Majok\Documents\Scripts\Image Files\29.jpg" />
+    <sourceImage filePath="C:\Users\Majok\Documents\Scripts\Image Files\3.jpg" />
+    <sourceImage filePath="C:\Users\Majok\Documents\Scripts\Image Files\30.jpg" />
+    <sourceImage filePath="C:\Users\Majok\Documents\Scripts\Image Files\31.jpg" />
+    <sourceImage filePath="C:\Users\Majok\Documents\Scripts\Image Files\32.jpg" />
+    <sourceImage filePath="C:\Users\Majok\Documents\Scripts\Image Files\33.jpg" />
+    <sourceImage filePath="C:\Users\Majok\Documents\Scripts\Image Files\34.jpg" />
+    <sourceImage filePath="C:\Users\Majok\Documents\Scripts\Image Files\35.jpg" />
+    <sourceImage filePath="C:\Users\Majok\Documents\Scripts\Image Files\36.jpg" />
+    <sourceImage filePath="C:\Users\Majok\Documents\Scripts\Image Files\37.jpg" />
+    <sourceImage filePath="C:\Users\Majok\Documents\Scripts\Image Files\38.jpg" />
+    <sourceImage filePath="C:\Users\Majok\Documents\Scripts\Image Files\39.jpg" />
+    <sourceImage filePath="C:\Users\Majok\Documents\Scripts\Image Files\4.jpg" />
+    <sourceImage filePath="C:\Users\Majok\Documents\Scripts\Image Files\5.jpg" />
+    <sourceImage filePath="C:\Users\Majok\Documents\Scripts\Image Files\6.jpg" />
+    <sourceImage filePath="C:\Users\Majok\Documents\Scripts\Image Files\7.jpg" />
+    <sourceImage filePath="C:\Users\Majok\Documents\Scripts\Image Files\8.jpg" />
+    <sourceImage filePath="C:\Users\Majok\Documents\Scripts\Image Files\9.jpg" />
+  </sourceImages>
+</stitchProject>
