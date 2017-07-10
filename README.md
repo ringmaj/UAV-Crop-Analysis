@@ -8,6 +8,6 @@ A project for my Engineering Service Learning course to stitch and analyze image
 
 UAV Demo
 
-![Demo Image]({{site.baseurl}}/https://raw.githubusercontent.com/ringmaj/UAV-Team/master/UAV-demo.png)
+![Demo Image](https://raw.githubusercontent.com/ringmaj/UAV-Team/master/UAV-demo.png)
 
 [Demo Video](https://youtu.be/V6_63yifeKs "Demo Video")
